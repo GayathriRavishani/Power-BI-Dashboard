@@ -28,7 +28,7 @@ To use data analysis and problem-solving skills to support better business decis
 -Built three separate dashboard pages — Home for overall summary, Detail for department and role-level breakdown, and Action for listing employees due for promotion or retrenchment.                                                                                                                                         
 Merged all visuals into one dashboard with a consistent theme and applied slicers and bookmark-based navigation to make it dynamic.                               
 
-##Project Insights:
+## Project Insights:
 * The organization has a total of 1,470 employees, with 60% male (882) and 40% female (588).
 * 92% of employees are active workers, while 8% (117 employees) are due for retrenchment.
 * Only 4.90% of employees (72) are due for promotion, while 95.10% are not yet eligible.
