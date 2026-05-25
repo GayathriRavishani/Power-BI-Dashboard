@@ -29,16 +29,16 @@ To use data analysis and problem-solving skills to support better business decis
 Merged all visuals into one dashboard with a consistent theme and applied slicers and bookmark-based navigation to make it dynamic.                               
 
 ## Project Insights:
-* The organization has a total of 1,470 employees, with 60% male (882) and 40% female (588).
-* 92% of employees are active workers, while 8% (117 employees) are due for retrenchment.
-* Only 4.90% of employees (72) are due for promotion, while 95.10% are not yet eligible.
-* Research & Development has the highest number of employees due for both promotion and retrenchment compared to other departments.
-* The majority of employees (569) report high job satisfaction, while 459 report low satisfaction.
-* 71.7% of employees do not work overtime, while 28.3% do.
-* Most employees have 5 years of service, followed by 1 year and 3 years.
-* 84.63% of employees have a high performance rating, and only 15.37% have a low rating.
-* 63.95% of employees live very close to the office, while 15.58% live very far.
-* Level 1 and Level 2 job roles have the highest employee count across all job levels.
+* The organization has 1,470 employees (60% male, 40% female).
+* 92% are active employees, while 8% are due for retrenchment.
+* Only 4.9% are eligible for promotion.
+* Research & Development has the highest number of employees for both promotion and retrenchment.
+* Most employees (569) report high job satisfaction.
+* 84.63% of employees have high performance ratings.
+* 71.7% of employees do not work overtime.
+* Most employees have 5 years of service.
+* 63.95% of employees live close to the office.
+* Level 1 and Level 2 roles have the highest employee count.
 
 ## Conclusion:
 The organization has a largely stable and satisfied workforce with a high performance rating. However, attention is needed for the 117 employees due for retrenchment and 72 due for promotion to ensure timely action and maintain overall workforce health.
