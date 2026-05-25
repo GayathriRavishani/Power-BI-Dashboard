@@ -19,4 +19,11 @@ To use data analysis and problem-solving skills to support better business decis
 -What percentage of employees are active workers?                                                                                                                     
 -Which employees are due for promotion or retirement?  
 
-## Dashboard 
+## Process
+-Collected HR employee data containing fields such as Employee Name, Gender, Department, Job Role, Job Satisfaction, Overtime, Years at Company, Job Level, Distance from Office, and promotion/retrenchment status flags.
+-Verified the data for any missing values and anomalies, and sorted out the same.                                                                                  
+-Made sure the data is consistent and clean with respect to data type, data format, and values used.                                                               
+-Created calculated measures and KPIs such as % Male/Female, % Active Workers, % Due for Promotion, % Next Retrenchment, and High/Low Performance Rating.
+-Created visuals including KPI cards, bar charts, donut charts, and matrix tables according to the questions asked.
+-Built three separate dashboard pages — Home for overall summary, Detail for department and role-level breakdown, and Action for listing employees due for promotion or retrenchment.
+Merged all visuals into one dashboard with a consistent theme and applied slicers and bookmark-based navigation to make it dynamic.
