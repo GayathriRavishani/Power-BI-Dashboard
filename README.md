@@ -7,14 +7,14 @@ To use data analysis and problem-solving skills to support better business decis
 
 # Questions (KPIs)
 -Which department has the highest number of employees due for promotion?                                                                                           
--What percentage of employees are highly satisfied with their jobs?
--Which job role has the highest overtime employees?
--How many employees are due for retrenchment?
--What is the gender distribution of employees?
--Which service year group has the highest number of employees?
--How far do employees travel from office on average?
--Which job level contains the highest number of employees?
--What percentage of employees are active workers?
--Which employees are due for promotion or retirement?
+-What percentage of employees are highly satisfied with their jobs?                                                                                               
+-Which job role has the highest overtime employees?                                                                                                              
+-How many employees are due for retrenchment?                                                                                                                         
+-What is the gender distribution of employees?                                                                                                                   
+-Which service year group has the highest number of employees?                                                                                                        
+-How far do employees travel from office on average?                                                                                                                  
+-Which job level contains the highest number of employees?                                                                                                            
+-What percentage of employees are active workers?                                                                                                                     
+-Which employees are due for promotion or retirement?  
 
 # Dashboard 
