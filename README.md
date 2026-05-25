@@ -6,7 +6,7 @@ To use data analysis and problem-solving skills to support better business decis
 <a href="https://github.com/GayathriRavishani/Power-BI-Dashboard/blob/main/HR%20employee%20data.csv">Data Set_2</a>
 
 # Questions (KPIs)
--Which department has the highest number of employees due for promotion?
+-Which department has the highest number of employees due for promotion?                                                                                           
 -What percentage of employees are highly satisfied with their jobs?
 -Which job role has the highest overtime employees?
 -How many employees are due for retrenchment?
